@@ -11,9 +11,9 @@ I am a postdoctoral researcher at Florida State University, and my mentor is Pro
 
 I received my Ph.D. in Mathematics from the University of Oklahoma in May 2023 under the supervision of Professor Murad Özaydın. I received my M.S. in Applied Mathematics from the University of Central Oklahoma in 2015 and my B.S. in Mathematics from Capital Normal University in 2013.
 
-My research interests lie primarily in **applied algebraic topology** and **topological data analysis**. I study multiparameter persistent homology arising from restricted configuration spaces of metric graphs, with a particular focus on restraint parameters and edge-length parameters. I am also interested in directed topology, topological robotics, persistence modules, and combinatorial models for filtered spaces.
+My research interests lie primarily in **applied algebraic topology** and **topological data analysis**. I study the multiparameter persistent homology of the second configuration space of metric graphs with restraint parameter and edge length parameter(s). 
 
-You can read more about my work on the [Research](/research/) and [Publications](/publications/) pages.
+You can read more about my work on the [Research](/research/) page.
 
 ## Contact
 
