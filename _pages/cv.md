@@ -43,4 +43,4 @@ Please contact me for a complete curriculum vitae.
 
 ## Publications
 
-See my [Publications](/publications/) page and [Google Scholar profile](https://scholar.google.com/citations?user=PS_CX0AAAAAJ).
+See my [Google Scholar profile](https://scholar.google.com/citations?user=SwPjGaQAAAAJ&hl=en).
