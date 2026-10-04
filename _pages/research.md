@@ -16,6 +16,6 @@ My research lies at the intersection of **applied algebraic topology**, **topolo
 
 - [Gromov--Hausdorff Distance for Directed Spaces](https://arxiv.org/abs/2408.14394), with Lisbeth Fajstrup, Brittany Terese Fasy, Lydia Mezrag, Tatum Rask, Francesca Tombari, and Živa Urbančič.
 
-## Principal component analysis (PCA) on manifolds and finite simple graphs
+## Applied Geometry
 
 - [Covariance and Principal Component Analysis on Riemannian Manifolds and Graphs](https://arxiv.org/pdf/2609.15753), with Luiz Hartmann and Washington Mio.
