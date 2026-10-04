@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies at the intersection of **applied algebraic topology**, **topological data analysis**, and **topological robotics**. A central theme of my work is understanding how the topology of a space changes when several geometric or physical parameters vary simultaneously. 
+My research mainly lies at the intersection of **applied algebraic topology**, **topological data analysis**, and **topological robotics**. A central theme of my work is understanding how the topology of a space changes when several geometric or physical parameters vary simultaneously. I am also interested in directed topology and applied geometry.
 
 ## Multiparameter persistent homology of restricted configuration spaces of metric graphs
 
