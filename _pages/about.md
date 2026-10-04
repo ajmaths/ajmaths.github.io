@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at Florida State University, and my mentor is Prof. Washington Mio.
+I am a postdoc at Florida State University, and my mentor is Prof. Washington Mio.
 
 I received my Ph.D. in Mathematics from the University of Oklahoma in May 2023 under the supervision of Prof. Murad Özaydın. I received my M.S. in Applied Mathematics from the University of Central Oklahoma in 2015 and my B.S. in Mathematics from Capital Normal University in 2013.
 
